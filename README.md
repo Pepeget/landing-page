@@ -1,4 +1,4 @@
-building a decent looking website based on an image provided by The Odin Project PagMan.
+Building a website by using HTML and CSS.
 
 Credits:
 
