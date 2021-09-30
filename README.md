@@ -1,8 +1,9 @@
-building a decent looking website based on an image provided by The Odin Project PagMan.
+Building a website by using HTML and CSS.
 
 Credits:
 
 Images used:
+
 https://www.frankerfacez.com/emoticon/317034-Pepege
 
 https://www.frankerfacez.com/emoticon/410314-Okayge
